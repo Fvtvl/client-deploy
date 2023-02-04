@@ -108,7 +108,7 @@ const ShoppingList = React.memo(() => {
             handleLoadMore();
           }}
         >
-          Show 12 more
+          Show more
         </Button>
       </Box>
     </Box>
